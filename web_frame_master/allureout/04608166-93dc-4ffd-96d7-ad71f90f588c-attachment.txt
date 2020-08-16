@@ -1,0 +1,2 @@
+INFO     Gritli:test_invest.py:33 请输入10的整数倍
+INFO     Gritli:test_invest.py:34 请输入10的整数倍
